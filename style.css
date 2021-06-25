@@ -29,13 +29,13 @@ html,body
 
 #blockpage
 {
-	background: url('./ressources/army.jpg');	
+	background: url('./Ressources/army.jpg');	
 }
 #page-daccueil
 {
 	display: flex;
 	justify-content: center;
-	background: url('./ressources/sombregloryy.png');
+	background: url('./Ressources/sombregloryy.png');
 	height: 1000px;
 	box-shadow: 6px 6px 25px black;
 	font-family: LemonMilkbold;
@@ -98,7 +98,7 @@ nav, ul, li
 	margin-top: 35px;
 	margin-left: 10%;
 	margin-right: 10%;
-	background:url('./ressources/sombreglory_69.png');
+	background:url('./Ressources/sombreglory_69.png');
 	border-radius: 5px 5px 5px 5px;
 	box-shadow: 6px 6px 25px black;
 }
@@ -165,7 +165,7 @@ article h2:hover
 {
 	display: flex;
 	flex-direction: row-reverse;
-	background: url('./ressources/studionice.jpg');
+	background: url('./Ressources/studionice.jpg');
 	height: 1500px;
 	margin-left: 10%;
 	margin-right: 10%;
@@ -287,7 +287,7 @@ article h2:hover
 	align-items: center;
 	font-family: lemonmilkbold;
 	color: blanchedalmond;
-	background: url('./ressources/contactus.png');
+	background: url('./Ressources/contactus.png');
 	height: 700px;
 	margin-top: 2%;
 	margin-left: 1%;
