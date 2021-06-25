@@ -1,14 +1,14 @@
  @font-face 
  {
     font-family: 'LemonMilkbold';
-    src: url('Ressources/Police/Font/LemonMilkbold.woff');
+    src: url('./Ressources/Police/Font/LemonMilkbold.woff');
     font-style: normal;
     font-weight: normal;
 }
 @font-face
 {
 	font-family: 'CODE_Light';
-	src: url('Ressources/police/Font/CODE_Light.woff');
+	src: url('./Ressources/police/Font/CODE_Light.woff');
 	font-style: normal;
 	font-weight: normal;
 }
